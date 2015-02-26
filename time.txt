@@ -1,0 +1,11 @@
+timevigenere=4.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=4.000000 timebeafort=5.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=7.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=7.000000 timebeafort=8.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=32.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=32.000000 timebeafort=34.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=42.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=40.000000 timebeafort=44.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=43.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=40.000000 timebeafort=46.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=38.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=36.000000 timebeafort=41.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=20.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=8.000000 timebeafort=22.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=22.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=7.000000 timebeafort=24.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=20.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=6.000000 timebeafort=22.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=22.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=6.000000 timebeafort=23.000000 timerot13=0.000000 timevernam=0.000000 
+timevigenere=23.000000 ceasartime=0.000000 timeatbash=0.000000 timeautokey=23.000000 timebeafort=25.000000 timerot13=0.000000 timevernam=0.000000 
